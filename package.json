@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlexMercedCoder/create-renderblocks-app.git"
+    "url": "git+https://github.com/AlexMercedCoder/create-superfunc-app.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AlexMercedCoder/create-renderblocks-app/issues"
+    "url": "https://github.com/AlexMercedCoder/create-superfunc-app/issues"
   },
-  "homepage": "https://github.com/AlexMercedCoder/create-renderblocks-app#readme"
+  "homepage": "https://github.com/AlexMercedCoder/create-superfunc-app#readme"
 }

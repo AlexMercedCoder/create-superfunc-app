@@ -46,7 +46,7 @@ console.log(
 
 const jsclone = spawnSync(`git`, [
   "clone",
-  "https://github.com/AlexMercedCoder/renderblocks-template.git",
+  "https://github.com/AlexMercedCoder/superfunc-template.git",
   name,
 ]);
 console.log(
